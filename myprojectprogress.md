@@ -1,0 +1,1 @@
+At this time, I think I want to make some sort of app for my project. I think a common repository would be simplest, but depending on how big it gets a blessed repository would probably be the safer option. I would prefer to use a common repository though. 
